@@ -15,7 +15,7 @@ export interface Empresa {
     telefono: string;
     whatsapp: string;
     mensajeWhatsapp?: string;
-    email: string;
+    email?: string;
     direccion: string;
     horario: string;
   };
@@ -51,7 +51,7 @@ export interface Producto {
   descripcion: string;
   imagen: string;
   imagenes?: string[];
-  especificaciones?: Record<string, string>;
+  especificaciones?: Record<string, string | undefined>;
   mensajeWhatsapp?: string;
   destacado: boolean;
   nuevo: boolean;
