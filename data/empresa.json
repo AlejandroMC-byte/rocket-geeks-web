@@ -1,0 +1,36 @@
+{
+  "nombre": "Rocket Geeks",
+  "slogan": "Trabajando por un sueño",
+  "descripcion": "Tu tienda de confianza para productos Apple en toda la ciudad. Ofrecemos los últimos modelos de iPhone, Mac, iPad y Apple Watch con garantía oficial y atención personalizada.",
+  "logo": "/images/logo.png",
+  "colores": {
+    "primario": "#000000",
+    "secundario": "#1d1d1f",
+    "acento": "#0071e3",
+    "fondo": "#ffffff",
+    "texto": "#1d1d1f",
+    "textoClaro": "#86868b"
+  },
+  "contacto": {
+    "telefono": "+57 314 844 4768",
+    "whatsapp": "+57 314 844 4768",
+    "mensajeWhatsapp": "Hola! Vengo desde la página web y me gustaría obtener más información sobre sus productos.",
+    "direccion": "Cra. 80 #11 A-51, Cali, Colombia Local: P-126",
+    "horario": "Lun - Vie: 9:00 AM - 8:00 PM, Sáb - Dom: 10:00 AM - 4:00 PM"
+  },
+  "redesSociales": {
+    "facebook": "https://web.facebook.com/people/Rocket-Geeks/61557030641038/?_rdc=1&_rdr#",
+    "instagram": "https://www.instagram.com/rocket_geeks/"
+  },
+  "sobreNosotros": {
+    "titulo": "Expertos en tecnología Apple",
+    "descripcion": "Con más de 10 años de experiencia, nos especializamos en ofrecer la mejor experiencia Apple. Nuestro equipo está capacitado para asesorarte en la elección perfecta según tus necesidades.",
+    "mision": "Acercar la innovación de Apple a cada persona, brindando productos originales y servicio excepcional.",
+    "valores": [
+      "Calidad garantizada",
+      "Atención personalizada",
+      "Productos originales",
+      "Mejores precios del mercado"
+    ]
+  }
+}

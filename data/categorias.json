@@ -1,0 +1,34 @@
+[
+  {
+    "id": "iphone",
+    "nombre": "iPhone",
+    "descripcion": "Los smartphones más avanzados del mundo",
+    "icono": "📱",
+    "imagen": "/images/categorias/iphone.jpg",
+    "destacado": true
+  },
+  {
+    "id": "mac",
+    "nombre": "Mac",
+    "descripcion": "Poder y elegancia en cada dispositivo",
+    "icono": "💻",
+    "imagen": "/images/categorias/mac.jpg",
+    "destacado": true
+  },
+  {
+    "id": "ipad",
+    "nombre": "iPad",
+    "descripcion": "Versatilidad y creatividad sin límites",
+    "icono": "📱",
+    "imagen": "/images/categorias/ipad.jpg",
+    "destacado": true
+  },
+  {
+    "id": "watch",
+    "nombre": "Apple Watch",
+    "descripcion": "Tu salud y fitness en tu muñeca",
+    "icono": "⌚",
+    "imagen": "/images/categorias/watch.jpg",
+    "destacado": true
+  }
+]

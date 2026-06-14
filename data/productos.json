@@ -1,0 +1,171 @@
+[
+  {
+    "id": "iphone-15-pro-max",
+    "nombre": "iPhone 15 Pro Max",
+    "categoria": "iphone",
+    "precio": 1299.99,
+    "precioAnterior": 1399.99,
+    "descripcion": "El iPhone más avanzado con pantalla de titanio, cámara de 48MP y chip A17 Pro. Diseño premium con acabado en titanio y Dynamic Island.",
+    "imagen": "/images/iphone-15-pro-max.png",
+    "imagenes": [
+      "/images/iphone-15-pro-max.png",
+      "/images/iphone-15-pro-max.png",
+      "/images/iphone-15-pro-max.png"
+    ],
+    "especificaciones": {
+      "pantalla": "6.7\" Super Retina XDR",
+      "almacenamiento": "256GB",
+      "color": "Titanio Natural",
+      "procesador": "A17 Pro",
+      "camara": "48MP + 12MP + 12MP"
+    },
+    "mensajeWhatsapp": "Hola! Me interesa el iPhone 15 Pro Max, ¿está disponible?",
+    "destacado": true,
+    "nuevo": true,
+    "disponible": true
+  },
+  {
+    "id": "iphone-15-pro",
+    "nombre": "iPhone 15 Pro",
+    "categoria": "iphone",
+    "precio": 1099.99,
+    "descripcion": "iPhone Pro con chip A17 Pro y cámara de 48MP. Diseño en titanio con bordes redondeados.",
+    "imagen": "/images/iphone-15-pro.png",
+    "especificaciones": {
+      "pantalla": "6.1\" Super Retina XDR",
+      "almacenamiento": "128GB",
+      "color": "Titanio Azul",
+      "procesador": "A17 Pro",
+      "camara": "48MP Principal"
+    },
+    "destacado": true,
+    "nuevo": true,
+    "disponible": true
+  },
+  {
+    "id": "iphone-15",
+    "nombre": "iPhone 15",
+    "categoria": "iphone",
+    "precio": 899.99,
+    "descripcion": "iPhone con Dynamic Island y cámara de 48MP. Colores vibrantes y diseño moderno.",
+    "imagen": "/images/iphone-15.png",
+    "especificaciones": {
+      "pantalla": "6.1\" Super Retina XDR",
+      "almacenamiento": "128GB",
+      "color": "Rosa",
+      "procesador": "A16 Bionic",
+      "camara": "48MP Principal"
+    },
+    "destacado": true,
+    "nuevo": true,
+    "disponible": true
+  },
+  {
+    "id": "macbook-air-m5-13",
+    "nombre": "MacBook Air M5 13 Pulgadas\"",
+    "categoria": "mac",
+    "precio": 2499.99,
+    "descripcion": "La laptop más poderosa de Apple. Con chip M5 Max, pantalla Liquid Retina XDR y hasta 22 horas de batería.",
+    "imagen": "/images/macbook-air-m5.png",
+    "especificaciones": {
+      "pantalla": "16.2\" Liquid Retina XDR",
+      "procesador": "Apple M5 Max",
+      "memoria": "36GB RAM",
+      "almacenamiento": "1TB SSD",
+      "color": "Gris Espacial"
+    },
+    "destacado": true,
+    "nuevo": true,
+    "disponible": true
+  },
+  {
+    "id": "macbook-air-m5-16",
+    "nombre": "MacBook Air M5 16 Pulgadas\"",
+    "categoria": "mac",
+    "precio": 2499.99,
+    "descripcion": "La laptop más poderosa de Apple. Con chip M5 Max, pantalla Liquid Retina XDR y hasta 22 horas de batería.",
+    "imagen": "/images/macbook-air-m5-16pg.png",
+    "especificaciones": {
+      "pantalla": "16.2\" Liquid Retina XDR",
+      "procesador": "Apple M5 Max",
+      "memoria": "36GB RAM",
+      "almacenamiento": "1TB SSD",
+      "color": "Gris Espacial"
+    },
+    "destacado": true,
+    "nuevo": true,
+    "disponible": true
+  },
+  {
+    "id": "macbook-air-pro-13",
+    "nombre": "MacBook Air Pro 13\"",
+    "categoria": "mac",
+    "precio": 1499.99,
+    "descripcion": "MacBook Air con pantalla grande y chip M2. Increíblemente delgada y ligera.",
+    "imagen": "/images/macbook-air-m5-pro-13pg.png",
+    "especificaciones": {
+      "pantalla": "15.3\" Liquid Retina",
+      "procesador": "Apple M2",
+      "memoria": "16GB RAM",
+      "almacenamiento": "512GB SSD",
+      "color": "Plata"
+    },
+    "destacado": true,
+    "nuevo": false,
+    "disponible": true
+  },
+  {
+    "id": "ipad-A16",
+    "nombre": "iPad A16\"",
+    "categoria": "ipad",
+    "precio": 1799.99,
+    "descripcion": "iPad con diseño colorido y chip M3-M5. Todo en uno perfecto para tu hogar u oficina.",
+    "imagen": "/images/ipad-a16.png",
+    "especificaciones": {
+      "pantalla": "24\" 4.5K Retina",
+      "procesador": "Apple M3-M5",
+      "memoria": "16GB RAM",
+      "almacenamiento": "512GB SSD",
+      "color": "Azul"
+    },
+    "destacado": true,
+    "nuevo": true,
+    "disponible": true
+  },
+  {
+    "id": "ipad-air",
+    "nombre": "iPad Air",
+    "categoria": "ipad",
+    "precio": 699.99,
+    "descripcion": "iPad Air con chip M3-M5. El equilibrio perfecto entre rendimiento y precio.",
+    "imagen": "/images/ipad-air.png",
+    "especificaciones": {
+      "pantalla": "10.9\" Liquid Retina",
+      "procesador": "Apple M3-M5",
+      "almacenamiento": "128GB",
+      "color": "Rosa",
+      "conectividad": "Wi-Fi"
+    },
+    "destacado": true,
+    "nuevo": false,
+    "disponible": true
+  },
+  {
+    "id": "ipad-pro",
+    "nombre": "iPad Pro",
+    "categoria": "ipad",
+    "precio": 449.99,
+    "descripcion": "iPad con diseño moderno y chip M3-M5. Perfecto para estudiantes y familias.",
+    "imagen": "/images/ipad-pro.png",
+    "especificaciones": {
+      "pantalla": "10.9\" Liquid Retina",
+      "procesador": "Procesador M3 - M5",
+      "almacenamiento": "64GB",
+      "color": "Azul",
+      "conectividad": "Wi-Fi"
+    },
+    "destacado": true,
+    "nuevo": false,
+    "disponible": true
+  } 
+]
